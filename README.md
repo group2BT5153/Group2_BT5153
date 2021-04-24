@@ -1,5 +1,7 @@
-# Group2_BT5153
-This is Group 2 Team Project's Collection of implemented code:
+# Group2_BT51533
+**A Project for BT5153**
+
+This is Group 2 Team Project's Code Files:
 
 +) Each folder's name indicates the respective part of the project
 
