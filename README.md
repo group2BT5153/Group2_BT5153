@@ -10,4 +10,4 @@ This is Group 2 Team Project's Code Files:
 
 **Warning**: Please check input path before rerun a notebook to avoid error
 
-**Warning**: Data file "Hotel_Reviews_Kaggle.csv" appear in any folder is a subset of the original file. Due to size limit, only a subset can be uploaded. For the full dataset, please visit: https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe
+**Warning**: Data files "Hotel_Reviews_Kaggle.csv" and "Hotel_Reviews.csv" appear in any folder is a subset of the original file. Due to size limit, only a subset can be uploaded. For the full dataset, please visit: https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe
